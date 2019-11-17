@@ -2,7 +2,7 @@
 
 #### Detalii despre structura programului:
 - Un hotel are mai multe tipuri de incaperi (camere, apartamente, sali de  
-conferinta, restaurant, etc.).   
+conferinta, restaurant etc.).   
 - Restaurantul are o capacitate maxima fixa, mai mica decat
 capacitatea totala de cazare. 
 - Unele sali de conferinta sunt echipate cu proiector. 
