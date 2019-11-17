@@ -20,7 +20,7 @@ cu capacitate suficienta pe parcursul sederii lor.
 ### Cerinta:
   Cererile sosesc pe rand. Sa se determine pentru fiecare cerere cea
 mai apropiata perioada de inceputul de an (ziua 1) cand ea poate fi onorata si sa se
-tipareasca detaliile (ce camere au fost rezervate, ce sala, etc.). De asemenea pot sosi
+tipareasca detaliile (ce camere au fost rezervate, ce sala etc.). De asemenea pot sosi
 cereri de anulare a unei rezervari.
 
 
@@ -32,4 +32,4 @@ cereri de anulare a unei rezervari.
 - Rezervarea include pentru fiecare participant (nume) camera in care este
 cazat (numarul). Participantii nu au preferinte la cuplajul in camere.
 - In cazul anularii unei rezervari anuleaza rezervarea tuturor elementelor
-(camere, sala, etc.).
+(camere, sala etc.).
